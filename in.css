@@ -1,0 +1,25 @@
+h1, .technology, h4{
+    text-align: center;
+ }
+ .list{
+     display: flex;
+     justify-content: center;
+ }
+ .play {
+     text-align: center;
+     padding: 1rem;
+ }
+ .play a {
+     padding: 0.5rem 1rem;
+     border-radius: 1rem;
+     color: white;
+     text-decoration: none;
+     box-shadow: 0px 0px 6px black;
+     background-color: #06c000;
+     font-weight: 800;
+ }
+ .technology> i{
+     font-size: 3rem;
+     filter: drop-shadow(0 0 1.5px black);
+     margin: 0 0.25rem;
+ } 
